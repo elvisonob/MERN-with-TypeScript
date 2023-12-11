@@ -4,7 +4,7 @@ import GuestList from './state/GuestList';
 const App = () => {
   return (
     <div>
-      <h1>I am a winner</h1>
+      <GuestList />
     </div>
   );
 };
